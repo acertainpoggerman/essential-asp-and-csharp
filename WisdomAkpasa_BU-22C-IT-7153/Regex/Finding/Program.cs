@@ -24,7 +24,7 @@ Console.WriteLine(NoCase.IsMatch(teststr1));
 Match m = CapWords.Match(teststr1);
 while (m.Success)
 {
-    Console.WriteLine($"{m.Value} found at position {m.Index}");
+    Console.WriteLine($"'{m.Value}' found at position {m.Index}");
     m = m.NextMatch();
 }
 
@@ -33,5 +33,5 @@ MatchCollection mc = CapWords.Matches(teststr1);
 Console.WriteLine($"Found {mc.Count} matches");
 foreach (Match match in mc)
 {
-    Console.WriteLine($"{match.Value} found at position {match.Index}");
+    Console.WriteLine($"'{match.Value}' found at position {match.Index}");
 }

@@ -12,3 +12,18 @@ D:\Documents\24B Baze\COM313\Start\Regex\Challenge\obj\Debug\net6.0\refint\Chall
 D:\Documents\24B Baze\COM313\Start\Regex\Challenge\obj\Debug\net6.0\Challenge.pdb
 D:\Documents\24B Baze\COM313\Start\Regex\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
 D:\Documents\24B Baze\COM313\Start\Regex\Challenge\obj\Debug\net6.0\ref\Challenge.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\bin\Debug\net6.0\Challenge.exe
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\bin\Debug\net6.0\Challenge.deps.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\bin\Debug\net6.0\Challenge.runtimeconfig.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\bin\Debug\net6.0\Challenge.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\bin\Debug\net6.0\Challenge.pdb
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfoInputs.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.AssemblyInfo.cs
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.csproj.CoreCompileInputs.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.sourcelink.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\refint\Challenge.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.pdb
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\Challenge.genruntimeconfig.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Challenge\obj\Debug\net6.0\ref\Challenge.dll

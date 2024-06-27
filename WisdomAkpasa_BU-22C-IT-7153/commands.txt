@@ -1,0 +1,2 @@
+To add all projects to the solution Start.sln:
+PS C:\> dotnet sln Start.sln add $(ls -r **/*.csproj)
