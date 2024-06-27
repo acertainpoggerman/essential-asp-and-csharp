@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.exe
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.deps.json
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\bin\Debug\net6.0\Interpolation.pdb
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\refint\Interpolation.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.pdb
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\Interpolation.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Interpolation\obj\Debug\net6.0\ref\Interpolation.dll

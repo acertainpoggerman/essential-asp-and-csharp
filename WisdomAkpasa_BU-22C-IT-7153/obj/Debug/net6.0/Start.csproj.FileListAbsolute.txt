@@ -1,0 +1,4 @@
+D:\Documents\24B Baze\COM313\Start\obj\Debug\net6.0\Start.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\obj\Debug\net6.0\Start.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\obj\Debug\net6.0\Start.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\obj\Debug\net6.0\Start.csproj.CoreCompileInputs.cache

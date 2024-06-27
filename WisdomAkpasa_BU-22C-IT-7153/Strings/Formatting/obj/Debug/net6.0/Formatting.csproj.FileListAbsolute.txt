@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.exe
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.deps.json
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\bin\Debug\net6.0\Formatting.pdb
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\refint\Formatting.dll
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.pdb
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\Formatting.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\Strings\Formatting\obj\Debug\net6.0\ref\Formatting.dll

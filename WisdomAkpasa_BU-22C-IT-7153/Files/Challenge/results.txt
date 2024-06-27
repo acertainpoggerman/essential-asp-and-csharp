@@ -1,0 +1,10 @@
+
+SUMMARY
+
+File Type         Count                           Size
+------------------------------------------------------
+.docx             5 files              1,196,567 Bytes
+.pptx             3 files              1,403,482 Bytes
+.xlsx             4 files                 74,262 Bytes
+------------------------------------------------------
+Total             12 files             2,674,311 Bytes

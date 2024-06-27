@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.exe
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.deps.json
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.dll
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\bin\Debug\net6.0\Replacing.pdb
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.dll
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\refint\Replacing.dll
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.pdb
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\Replacing.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\Regex\Replacing\obj\Debug\net6.0\ref\Replacing.dll

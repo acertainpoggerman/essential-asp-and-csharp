@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.exe
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.deps.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\bin\Debug\net6.0\FormatNumbers.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\refint\FormatNumbers.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\FormatNumbers.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatNumbers\obj\Debug\net6.0\ref\FormatNumbers.dll

@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.exe
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.deps.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\bin\Debug\net6.0\ParseDates.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\refint\ParseDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ParseDates.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\ParseDates\obj\Debug\net6.0\ref\ParseDates.dll

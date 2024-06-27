@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.exe
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.deps.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\bin\Debug\net6.0\FormatDates.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\refint\FormatDates.dll
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.pdb
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\FormatDates.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\NumbersDates\FormatDates\obj\Debug\net6.0\ref\FormatDates.dll

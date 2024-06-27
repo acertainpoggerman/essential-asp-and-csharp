@@ -1,0 +1,14 @@
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.exe
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.deps.json
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.runtimeconfig.json
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.dll
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\bin\Debug\net6.0\GarbageCollect.pdb
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfoInputs.cache
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.AssemblyInfo.cs
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.csproj.CoreCompileInputs.cache
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.dll
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\refint\GarbageCollect.dll
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.pdb
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\GarbageCollect.genruntimeconfig.cache
+D:\Documents\24B Baze\COM313\Start\Overview\GarbageCollect\obj\Debug\net6.0\ref\GarbageCollect.dll
