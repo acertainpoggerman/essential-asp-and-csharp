@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Timeouts\\RegexTimeouts.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj": {
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Timeouts\\RegexTimeouts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectUniqueName": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "projectName": "RegexTimeouts",
-        "projectPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Timeouts\\RegexTimeouts.csproj",
+        "projectPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Timeouts\\RegexTimeouts.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Timeouts\\obj\\",
+        "outputPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Timeouts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

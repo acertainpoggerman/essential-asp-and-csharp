@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\24B Baze\\COM313\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+      "projectUniqueName": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
       "projectName": "DateTimeClass",
-      "projectPath": "D:\\Documents\\24B Baze\\COM313\\Start\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
+      "projectPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\NumbersDates\\DateTimeClass\\DateTimeClass.csproj",
       "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\24B Baze\\COM313\\Start\\NumbersDates\\DateTimeClass\\obj\\",
+      "outputPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\NumbersDates\\DateTimeClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

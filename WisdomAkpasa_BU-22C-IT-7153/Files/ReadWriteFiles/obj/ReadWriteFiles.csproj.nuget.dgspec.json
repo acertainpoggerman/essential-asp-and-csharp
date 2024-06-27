@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectUniqueName": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "projectName": "ReadWriteFiles",
-        "projectPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
+        "projectPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\ReadWriteFiles\\ReadWriteFiles.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\ReadWriteFiles\\obj\\",
+        "outputPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\ReadWriteFiles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

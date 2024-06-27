@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Finding\\Finding.csproj",
+      "projectUniqueName": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Finding\\Finding.csproj",
       "projectName": "Finding",
-      "projectPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Finding\\Finding.csproj",
+      "projectPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Finding\\Finding.csproj",
       "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Regex\\Finding\\obj\\",
+      "outputPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Regex\\Finding\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

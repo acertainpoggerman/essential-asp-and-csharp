@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\Challenge\\Challenge.csproj": {}
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\Challenge\\Challenge.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\Challenge\\Challenge.csproj": {
+    "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\Challenge\\Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\Challenge\\Challenge.csproj",
+        "projectUniqueName": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\Challenge\\Challenge.csproj",
         "projectName": "Challenge",
-        "projectPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\Challenge\\Challenge.csproj",
+        "projectPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\Challenge\\Challenge.csproj",
         "packagesPath": "C:\\Users\\wisdo\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\24B Baze\\COM313\\Start\\Files\\Challenge\\obj\\",
+        "outputPath": "D:\\GitHub\\essential-asp-and-csharp\\WisdomAkpasa_BU-22C-IT-7153\\Files\\Challenge\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

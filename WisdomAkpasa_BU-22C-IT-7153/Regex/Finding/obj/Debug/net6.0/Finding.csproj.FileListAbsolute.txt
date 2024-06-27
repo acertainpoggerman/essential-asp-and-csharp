@@ -12,3 +12,18 @@ D:\Documents\24B Baze\COM313\Start\Regex\Finding\obj\Debug\net6.0\refint\Finding
 D:\Documents\24B Baze\COM313\Start\Regex\Finding\obj\Debug\net6.0\Finding.pdb
 D:\Documents\24B Baze\COM313\Start\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
 D:\Documents\24B Baze\COM313\Start\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\bin\Debug\net6.0\Finding.exe
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\bin\Debug\net6.0\Finding.deps.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\bin\Debug\net6.0\Finding.runtimeconfig.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\bin\Debug\net6.0\Finding.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\bin\Debug\net6.0\Finding.pdb
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfoInputs.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.AssemblyInfo.cs
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.csproj.CoreCompileInputs.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.sourcelink.json
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\refint\Finding.dll
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.pdb
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\Finding.genruntimeconfig.cache
+D:\GitHub\essential-asp-and-csharp\WisdomAkpasa_BU-22C-IT-7153\Regex\Finding\obj\Debug\net6.0\ref\Finding.dll
